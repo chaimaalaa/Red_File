@@ -4,8 +4,8 @@ Principe des CGANs
 GAN classique
 Un GAN se compose de deux réseaux neuronaux en compétition :
 
-Le générateur (G) : Génère des échantillons de données à partir de vecteurs de bruit aléatoires.
-Le discriminateur (D) : Tente de distinguer entre les échantillons générés et les échantillons réels.
+- Le générateur (G) : Génère des échantillons de données à partir de vecteurs de bruit aléatoires.
+- Le discriminateur (D) : Tente de distinguer entre les échantillons générés et les échantillons réels.
 Le générateur essaie de tromper le discriminateur en produisant des échantillons de plus en plus réalistes, tandis que le discriminateur devient de plus en plus compétent pour distinguer les faux des vrais échantillons.
 
 CGAN
